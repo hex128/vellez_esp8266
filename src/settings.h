@@ -19,9 +19,9 @@
 #define DEFAULT_TIMEZONE "EET-2EEST,M3.5.0/3,M10.5.0/4"
 #define DEFAULT_AP_SSID "Vellez Alert %06X"
 #define DEFAULT_NTP_HOST "pool.ntp.org"
-#define DEFAULT_OTA_HOST "iot.rmrf.co"
+#define DEFAULT_OTA_HOST "iot.hex128.io"
 #define DEFAULT_OTA_URI "/.ota/firmware/vellez.bin"
-#define DEFAULT_MQTT_HOST "iot.rmrf.co"
+#define DEFAULT_MQTT_HOST "iot.hex128.io"
 #define DEFAULT_MQTT_USERNAME nullptr
 #define DEFAULT_MQTT_PASSWORD nullptr
 #define DEFAULT_MQTT_GENERIC_TOPIC "vellez_test"
